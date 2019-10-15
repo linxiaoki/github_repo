@@ -10,7 +10,7 @@
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) => pandas 辅助工具，快速对数据进行可视化分析
 
 #### 学习材料
-- [**Learn_Python3_Spider**](https://github.com/wistbean/learn_python3_spider)=> python 爬虫教程系列，有意思的。有时间学学
+- [**python爬虫教程系列**](https://github.com/wistbean/learn_python3_spider)=> python 爬虫教程系列，有意思的。有时间学学
 
 - [动手学深度学习-中文翻译](https://github.com/d2l-ai/d2l-zh)
 - [AiLearning](https://github.com/apachecn/AiLearning) => 呐，又是机器学习
