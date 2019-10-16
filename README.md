@@ -3,6 +3,7 @@
 #### 工具（不用造轮子啦~）
 - [**微信公众号框架**](https://github.com/offu/WeRoBot)
 - [itChat](https://github.com/littlecodersh/ItChat) => 微信机器人，都过几年了，还能用吗
+- [WeChat群机器人](https://github.com/wistbean/wechatGroupRobot) =>　？
 - [12306抢票](https://github.com/testerSunshine/12306)
 
 #### 依赖库
@@ -19,7 +20,8 @@
 - [vipstone/faceai](https://github.com/vipstone/faceai)=> 入门级的人脸、视频、文字检测以及识别
 
 #### 爬虫辅助相关
-- [开源ip代理池](https://github.com/Python3WebSpider/ProxyPool) => 需先安装 [redis](https://github.com/MicrosoftArchive/redis/releases) 服务
+- [开源ip代理池 - 1](https://github.com/jhao104/proxy_pool)
+- [开源ip代理池 - 2](https://github.com/Python3WebSpider/ProxyPool) => 需先安装 [redis](https://github.com/MicrosoftArchive/redis/releases) 服务
 
 ### 安卓apk
 - [地理位置欺骗](https://github.com/bigsinger/fakegps) => 需要先安装 xposed
